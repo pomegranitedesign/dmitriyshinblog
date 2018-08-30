@@ -1,9 +1,9 @@
 ---
-title: "Welcome To The New Blog"
+title: "Dmitriy Shin Blog"
 date: "2018-08-30"
 ---
 
-# Hello
+# Hello World
 
 Lorem ipsum dolor amet hammock bitters 90's cray flannel cronut. Pabst prism synth gluten-free, distillery raclette intelligentsia meditation seitan single-origin coffee paleo sriracha jianbing food truck. Bespoke yuccie heirloom ethical, celiac leggings godard shaman crucifix gluten-free ramps. Vegan intelligentsia banh mi gluten-free narwhal kickstarter, master cleanse leggings plaid street art. Lumbersexual tote bag jianbing chia master cleanse actually. <!-- end -->
 <hr />

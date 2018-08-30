@@ -3,7 +3,6 @@ module.exports = {
     title: 'Gatsby Default Starter',
     desc: "Welcome To My Blog!"
   },
-  pathPrefix: "/dmitriyshin-blog",
   plugins: [
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-styled-components',
@@ -14,7 +13,7 @@ module.exports = {
         path: `${__dirname}/src/images`
       }
     },
-
+    
     {
       resolve: "gatsby-source-filesystem",
       options: {
@@ -22,7 +21,7 @@ module.exports = {
         path: `${__dirname}/src/`
       }
     },
-
+    
     {
       resolve: "gatsby-transformer-remark",
     },
@@ -30,3 +29,5 @@ module.exports = {
     'gatsby-plugin-sharp',
   ],
 }
+
+// pathPrefix: "/dmitriyshin-blog",

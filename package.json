@@ -24,7 +24,7 @@
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write 'src/**/*.js'",
-    "deploy": "gatsby build --prefix-path && gh-pages -d public"
+    "deploy": "gatsby build && gh-pages -d=public -b=master"
   },
   "devDependencies": {
     "gh-pages": "^1.2.0",
